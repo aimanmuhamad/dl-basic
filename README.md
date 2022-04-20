@@ -1,1 +1,1 @@
-# dl-basic
+# Deep Learning Basic
